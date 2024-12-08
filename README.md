@@ -1,2 +1,3 @@
 # 1) Hangman-Game
  Design a text-based Hangman game. The program selects a random word, and the player guesses one letter at a time to uncover the word. You can set a limit on the number of incorrect guesses allowed .
+The Hangman Game is a text-based word guessing game where the player tries to guess a randomly chosen word by suggesting one letter at a time. The game provides feedback after each guess, revealing the correct letters in the word or counting incorrect guesses. The player is allowed a limited number of incorrect guesses (usually 6), and the game ends when either the word is guessed correctly or the incorrect guesses exceed the limit.
